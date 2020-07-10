@@ -4,5 +4,5 @@ The presence of Open Information Extraction offers a more nuancedInformation Ext
 
 Publications:
 1. Duc-Thuan Vo, Ebrahim Bagheri. (2017). “Open Information Extraction”. Encyclopedia with Semantic Computing and Robotic Intelligence. Vol. 1. 2017. Word Scientific Publishing.
-2. Duc-Thuan Vo, Ebrahim Bagheri. (2016). “Clause-based open information extraction with grammatical structure reformation”. 2016.In CICLing 2016, Acceptance Rate: 40/297
-3. Duc-Thuan Vo, Ebrahim Bagheri. (2016). “Relation extraction using clause patterns and self-training”. 2016.In CICLing 2016, Acceptance Rate: 40/297(Oral presentation).
+2. Duc-Thuan Vo, Ebrahim Bagheri. (2016). “Clause-based open information extraction with grammatical structure reformation”. 2016. In CICLing 2016, Acceptance Rate: 40/297
+3. Duc-Thuan Vo, Ebrahim Bagheri. (2016). “Relation extraction using clause patterns and self-training”. 2016. In CICLing 2016, Acceptance Rate: 40/297(Oral presentation).
