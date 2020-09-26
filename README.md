@@ -1,5 +1,6 @@
 # OpenIE
 Open Information Extraction
+
 The presence of Open Information Extraction offers a more nuancedInformation Extraction approach to identify variety of relation phrases and their arguments in arbitrary sentences that relies minimally on background knowledge and manually labeled training data. In this research, we propose refinements to the grammatical structure of syntactic and dependency parsing. We use the English clause structure and clause types in an effort to generate propositions that can be deemed as extractable relations.
 
 Publications:
